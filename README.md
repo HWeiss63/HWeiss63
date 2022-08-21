@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi, I am Hwieun Weiss, and I am a software engineer.
+I love learning programming languages! 
+
+Skills: RUBY / RUBY ON RAILS / VUE JS / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
 **HWeiss63/HWeiss63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
